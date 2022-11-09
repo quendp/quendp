@@ -35,5 +35,7 @@
 <p align="center"><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/quendphttps://www.buymeacoffee.com/quendp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/quendphttps://www.buymeacoffee.com/quendp" /></a></p>
 <br>
 
-<p align="center"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=quendp&show_icons=true&locale=en" alt="quendp"/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=quendp&show_icons=true&locale=en&layout=compact" alt="quendp"/> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=quendp&show_icons=true&locale=en" alt="quendp"/></p>
 <br>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=quendp&show_icons=true&locale=en&layout=compact" alt="quendp"/> </p>
