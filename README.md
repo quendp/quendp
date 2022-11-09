@@ -8,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=0e75b6&style=flat" alt="quendp" /> </p>
 
-- 🔭 I’m currently working on my [Personal Website](quendp.com)
+- 🔭 I’m currently working on my [Personal Website](https://quendp.com)
 
 - 🌱 I’m currently learning **MySQL**
 
-- 👨‍💻 All of my projects are available at [https://quendp.com/portfolio/](https://quendp.com/portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://quendp.com/portfolio/)
 
-- 📝 I regularly write articles on [https://quendp.com/blog/](https://quendp.com/blog/)
+- 📝 I regularly write articles on my [Blog](https://quendp.com/blog/)
 
-- 📫 How to reach me **hello@quendp.com**
+- 📫 Contact me using my email **hello@quendp.com**
 
-- 📄 Know about my experiences [https://quendp.com/curriculum-vitae/](https://quendp.com/curriculum-vitae/)
+- 📄 Know about my experiences on my [Curriculum Vitae](https://quendp.com/curriculum-vitae/)
 
-- ⚡ Fun fact **My favorite artists are Eminem, Travis, Kendrick, Nas, Greenday, MCR, Linkin Park, The Beatles, The Platters, Beethoven, and Blackpink.**
+- ⚡ Fun fact **I always listen to music everytime I code. My favorite artists are Eminem, Travis, Kendrick, Nas, Greenday, MCR, Linkin Park, Joji, The Beatles, The Platters, Beethoven, and Blackpink. Obviously, it depends on how "hardcore" is the project I'm working on lol.**
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
