@@ -1,6 +1,8 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
 <h1 align="center">Hi 👋, I'm Quen Del Pilar</h1>
 <h3 align="center">An aspiring software engineer from the Philippines</h3>
+<br>
+<br>
 <img align="right" alt="Coding" width="350" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 
 
