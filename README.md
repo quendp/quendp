@@ -85,10 +85,6 @@
   <img src="https://img.shields.io/badge/-Facebook-24283b?style=flat-square&logo=facebook">
 </a>
   &nbsp;
-<a href="https://instagram.com/quen.dp" target="blank">
-  <img src="https://img.shields.io/badge/-Instagram-24283b?style=flat-square&logo=instagram">
-</a>
-  &nbsp;
 <a href="https://www.youtube.com/@quendp" target="blank">
   <img src="https://img.shields.io/badge/-YouTube-24283b?style=flat-square&logo=youtube">
 </a>
