@@ -1,55 +1,107 @@
 ![MasterHead](https://thumbs.gfycat.com/BetterHandmadeGull-size_restricted.gif)
-<h1 align="center">Hi 👋, I'm Quen Del Pilar</h1>
-<h3 align="center">An aspiring software engineer from the Philippines</h3>
-<br>
-<br>
-<img align="right" alt="Coding" width="350" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=0e75b6&style=flat" alt="quendp" /> </p>
-
-- 🔭 I’m currently working on my [Personal Website](https://quendp.com)
-
-- 🌱 I’m currently learning **MySQL**
-
-- 👨‍💻 All of my projects are available at my [Portfolio](https://quendp.com/portfolio/)
-
-- 📝 I regularly write articles on my [Blog](https://quendp.com/blog/)
-
-- 📫 Contact me using my email **hello@quendp.com**
-
-- 📄 Know about my experiences on my [Curriculum Vitae](https://quendp.com/curriculum-vitae/)
-
-- ⚡ Fun fact **I love listening to music everytime I code. My favorite artists are Eminem, The Beatles, and Blackpink.**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="https://github.com/quendp">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&duration=2500&pause=100&color=00FFD2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Quen+Del+Pilar;Software+Engineer+%7C+Full+Stack+Web+Developer" alt="Typing SVG" />
+ </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/quendp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quendp/" height="30" width="40" /></a>
-<a href="https://fb.com/itsquendp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsquendp/" height="30" width="40" /></a>
-<a href="https://instagram.com/quen.dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="quen.dp" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@quendp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@quendp" height="30" width="40" /></a>
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=24283b&style=flat" alt="quendp" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-24283b?style=flat-square&logo=javascript">
+  <img src="https://img.shields.io/badge/-HTML-24283b?style=flat-square&logo=html5">
+  <img src="https://img.shields.io/badge/-CSS-24283b?style=flat-square&logo=css3">
+  <img src="https://img.shields.io/badge/-React JS-24283b?style=flat-square&logo=react">
+  <img src="https://img.shields.io/badge/-Node JS-24283b?style=flat-square&logo=nodedotjs">
+  <img src="https://img.shields.io/badge/-MySql-24283b?style=flat-square&logo=mysql"> 
+  <img src="https://img.shields.io/badge/-PHP-24283b?style=flat-square&logo=php">
+  <img src="https://img.shields.io/badge/-Express JS-24283b?style=flat-square&logo=express">   
+  <img src="https://img.shields.io/badge/-Python-24283b?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/-Git-24283b?style=flat-square&logo=git">   
+  <img src="https://img.shields.io/badge/-Bash-24283b?style=flat-square&logo=gnubash">
+  <img src="https://img.shields.io/badge/-Bootstrap-24283b?style=flat-square&logo=bootstrap">
+  <img src="https://img.shields.io/badge/-Tailwind-24283b?style=flat-square&logo=tailwindcss">
+  <img src="https://img.shields.io/badge/-JWT-24283b?style=flat-square&logo=jsonwebtokens">
+  <img src="https://img.shields.io/badge/-Axios-24283b?style=flat-square&logo=axios">
+  <img src="https://img.shields.io/badge/-Sequelize-24283b?style=flat-square&logo=sequelize"> 
+  <img src="https://img.shields.io/badge/-VS Code-24283b?style=flat-square&logo=visualstudiocode">   
+  <img src="https://img.shields.io/badge/-GitHub-24283b?style=flat-square&logo=github">
+  <img src="https://img.shields.io/badge/-Sass-24283b?style=flat-square&logo=sass">
+  <img src="https://img.shields.io/badge/-AWS-24283b?style=flat-square&logo=amazonaws">
+  <img src="https://img.shields.io/badge/-Photoshop-24283b?style=flat-square&logo=adobephotoshop">
+  <img src="https://img.shields.io/badge/-Illustrator-24283b?style=flat-square&logo=adobeillustrator">
+  <img src="https://img.shields.io/badge/-Figma-24283b?style=flat-square&logo=figma">
+</p>
+
+<br>
+
+<p align="right"> 
+ <img align="left" alt="Coding" width="330" " src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
+<dl>
+  <dd>
+    <dl>
+        <dd>
+    &#8226; 🔭 I’m currently working on my <a href="https://quendp.com"> Personal Website </a>
+  </dd>
+  <dd>
+    &#8226; 👨‍💻 All of my projects are available at my  <a href="https://quendp.com/portfolio/"> Portfolio </a>
+  </dd>
+  <dd>
+    &#8226; 📝 I regularly write articles on my <a href="https://quendp.com/blog/"> Blog </a>
+  </dd>
+  <dd>
+    &#8226; 📫 Contact me using my email <a href="mailto:hello@quendp.com"> hello@quendp.com </a>
+  </dd>
+  <dd>
+    &#8226; 📄 Know about my experiences on my <a href="https://quendp.com/curriculum-vitae/"> Curriculum Vitae </a>
+  </dd>
+   <dd>
+    &#8226; ⚡ Fun fact: I love listening to music everytime I code.
+   <br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     My favorite artists are Eminem, The Beatles, and Blackpink.
+   </dd>
+    </dl>
+  </dd>
+</dl>
+  <br>
+  &nbsp;
+  <a href="https://quendp.com/" target="blank">
+   <img src="https://img.shields.io/badge/Website-quendp.com-24283b?style=flat-square">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/quendp/" target="blank">
+    <img src="https://img.shields.io/badge/-Linkedin-24283b?style=flat-square&logo=linkedin">
+  </a>
+  &nbsp;
+  <a href="mailto:hello@quendp.com">
+    <img src="https://img.shields.io/badge/-Email-24283b?style=flat-square&logo=gmail&logoColor=white">
+</a>
+  &nbsp;
+<a href="https://fb.com/itsquendp/" target="blank">
+  <img src="https://img.shields.io/badge/-Facebook-24283b?style=flat-square&logo=facebook">
+</a>
+  &nbsp;
+<a href="https://instagram.com/quen.dp" target="blank">
+  <img src="https://img.shields.io/badge/-Instagram-24283b?style=flat-square&logo=instagram">
+</a>
+  &nbsp;
+<a href="https://www.youtube.com/@quendp" target="blank">
+  <img src="https://img.shields.io/badge/-YouTube-24283b?style=flat-square&logo=youtube">
+</a>
+</p>
+
+<br>
 
 <br><br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=quendp&show_icons=true&locale=en&layout=compact" alt="quendp"/>
-<p align="right"> Support me: <a href="https://www.buymeacoffee.com/quendp"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/quendphttps://www.buymeacoffee.com/quendp" /></a></p>
+<table cellpadding="0">
+  <tr style="padding: 0">
+    <!-- GitHub Stats Card -->  
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=quendp&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
+    <!-- GitHub Top Language Card -->
+    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quendp&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
+  </tr>
+</table>
