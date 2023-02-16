@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> 
- <img align="left" alt="Coding" width="42%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
+ <img align="left" alt="Coding" width="45%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
 </p>
                                                                                                                            
 <dl>
@@ -71,8 +71,6 @@
 </a>
 </p>
 
-<br>
-<br>
 <br>
 
 <table width="100%">
