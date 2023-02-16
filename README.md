@@ -7,9 +7,76 @@
 </p>
 
 <br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=24283b&style=flat" alt="quendp" />
+<br>
+
+<p align="center"> 
+ <img align="left" alt="Coding" width="38%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
 </p>
+                                                                                                                           
+<dl>
+<dd>
+ <dl>
+  <dd>
+    &#8226; 🏫 I am a second year undergraduate of BS Electrical Engineering at <a href="https://up.edu.ph/"> The University of the Philippines Diliman </a>
+  </dd>
+        <dd>
+    &#8226; 🔭 I’m currently working on my <a href="https://quendp.com"> Website </a> using React JS and Tailwind CSS.
+  </dd>
+  <dd>
+    &#8226; 👨‍💻 All of my projects are available at my  <a href="https://quendp.com/portfolio/"> Portfolio </a>
+  </dd>
+  <dd>
+    &#8226; 📝 I also regularly write articles on my <a href="https://quendp.com/blog/"> Blog </a>
+  </dd>
+  <dd>
+    &#8226; 📫 You can contact me using my email <a href="mailto:hello@quendp.com"> hello@quendp.com </a>
+  </dd>
+  <dd>
+    &#8226; 📄 Know more about my experiences on my <a href="https://quendp.com/curriculum-vitae/"> Curriculum Vitae </a>
+  </dd>
+   <dd>
+    &#8226; ⚡ Fun fact: I love listening to music while coding. My favorite artists are Eminem, The Beatles, and Blackpink.
+   </dd>
+    </dl>
+  </dd>
+</dl>
+  <br>
+    <a href="https://github.com/quendp/" target="blank">
+  <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=24283b&style=flat" alt="quendp" />
+  </a>
+    &nbsp;
+  <a href="https://quendp.com/" target="blank">
+   <img src="https://img.shields.io/badge/Website-quendp.com-24283b?style=flat-square">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/quendp/" target="blank">
+    <img src="https://img.shields.io/badge/-Linkedin-24283b?style=flat-square&logo=linkedin">
+  </a>
+  &nbsp;
+  <a href="mailto:hello@quendp.com">
+    <img src="https://img.shields.io/badge/-Email-24283b?style=flat-square&logo=gmail&logoColor=white">
+</a>
+  &nbsp;
+<a href="https://fb.com/itsquendp/" target="blank">
+  <img src="https://img.shields.io/badge/-Facebook-24283b?style=flat-square&logo=facebook">
+</a>
+  &nbsp;
+<a href="https://www.youtube.com/@quendp" target="blank">
+  <img src="https://img.shields.io/badge/-YouTube-24283b?style=flat-square&logo=youtube">
+</a>
+</p>
+
+<br>
+<br>
+<br>
+
+<table width="100%">
+<tr><th> Profile Statistics </th><th>Tools and Languages</th></tr>
+<tr><td width="50%">
+  <a href="https://github.com/quendp">
+    <img height="200" src="https://github-stats-alpha.vercel.app/api?username=quendp&cc=1a1b26&tc=00FFD2&ic=fff&bc=0000">
+  </a>
+</td><td width="50%">
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-24283b?style=flat-square&logo=javascript">
   <img src="https://img.shields.io/badge/-HTML-24283b?style=flat-square&logo=html5">
@@ -35,69 +102,12 @@
   <img src="https://img.shields.io/badge/-Illustrator-24283b?style=flat-square&logo=adobeillustrator">
   <img src="https://img.shields.io/badge/-Figma-24283b?style=flat-square&logo=figma">
 </p>
+</td></tr> </table>
 
-<br>
-
-<p align="right"> 
- <img align="left" alt="Coding" width="330" " src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
-<dl>
-  <dd>
-    <dl>
-        <dd>
-    &#8226; 🔭 I’m currently working on my <a href="https://quendp.com"> Personal Website </a>
-  </dd>
-  <dd>
-    &#8226; 👨‍💻 All of my projects are available at my  <a href="https://quendp.com/portfolio/"> Portfolio </a>
-  </dd>
-  <dd>
-    &#8226; 📝 I regularly write articles on my <a href="https://quendp.com/blog/"> Blog </a>
-  </dd>
-  <dd>
-    &#8226; 📫 Contact me using my email <a href="mailto:hello@quendp.com"> hello@quendp.com </a>
-  </dd>
-  <dd>
-    &#8226; 📄 Know about my experiences on my <a href="https://quendp.com/curriculum-vitae/"> Curriculum Vitae </a>
-  </dd>
-   <dd>
-    &#8226; ⚡ Fun fact: I love listening to music everytime I code.
-   <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     My favorite artists are Eminem, The Beatles, and Blackpink.
-   </dd>
-    </dl>
-  </dd>
-</dl>
-  <br>
-  &nbsp;
-  <a href="https://quendp.com/" target="blank">
-   <img src="https://img.shields.io/badge/Website-quendp.com-24283b?style=flat-square">
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/quendp/" target="blank">
-    <img src="https://img.shields.io/badge/-Linkedin-24283b?style=flat-square&logo=linkedin">
-  </a>
-  &nbsp;
-  <a href="mailto:hello@quendp.com">
-    <img src="https://img.shields.io/badge/-Email-24283b?style=flat-square&logo=gmail&logoColor=white">
-</a>
-  &nbsp;
-<a href="https://fb.com/itsquendp/" target="blank">
-  <img src="https://img.shields.io/badge/-Facebook-24283b?style=flat-square&logo=facebook">
-</a>
-  &nbsp;
-<a href="https://www.youtube.com/@quendp" target="blank">
-  <img src="https://img.shields.io/badge/-YouTube-24283b?style=flat-square&logo=youtube">
-</a>
-</p>
-
-<br>
-
-<br><br>
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=quendp&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/></td>
-    <!-- GitHub Top Language Card -->
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quendp&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/></td>
-  </tr>
-</table>
+<table width="100%">
+<tr></tr>
+<tr><td width="50%">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=quendp&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Stats"/>
+</td><td width="50%">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quendp&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=HTML&custom_title=Top%20Languages"/>
+</td></tr> </table>
