@@ -5,9 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=32&duration=2500&pause=100&color=00FFD2&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Quen+Del+Pilar;Software+Engineer+%7C+Full+Stack+Web+Developer" alt="Typing SVG" />
  </a>
 </p>
-
 <br>
-
 <p align="center">
   <br>
     <a href="https://github.com/quendp/" target="blank">
@@ -34,7 +32,6 @@
   <img src="https://img.shields.io/badge/-YouTube-24283b?style=flat-square&logo=youtube">
 </a>
 </p>
-<br>
 <br>
 <p align="center"> 
  <img align="left" alt="Coding" width="45%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
@@ -71,7 +68,9 @@
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 <table width="100%">
 <tr><th> Profile Statistics </th><th>Tools and Languages</th></tr>
 <tr><td width="50%">
