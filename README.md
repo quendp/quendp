@@ -10,7 +10,7 @@
 <br>
 
 <p align="center"> 
- <img align="left" alt="Coding" width="38%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
+ <img align="left" alt="Coding" width="42%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
 </p>
                                                                                                                            
 <dl>
@@ -40,6 +40,11 @@
     </dl>
   </dd>
 </dl>
+</p>
+<br>
+<br>
+<br>
+<p align="center">
   <br>
     <a href="https://github.com/quendp/" target="blank">
   <img src="https://komarev.com/ghpvc/?username=quendp&label=Profile%20views&color=24283b&style=flat" alt="quendp" />
