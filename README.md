@@ -34,9 +34,8 @@
 </p>
 <br>
 <p align="center"> 
- <img align="left" alt="Coding" width="45%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
-</p>
-                                                                                                                           
+ <img align="left" alt="Coding" width="40%" src="https://qph.cf2.quoracdn.net/main-qimg-3bd139022dfbf3b91ec200318cc13148" />
+</p>                                                                                                                          
 <dl>
 <dd>
  <dl>
@@ -65,9 +64,6 @@
   </dd>
 </dl>
 </p>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
