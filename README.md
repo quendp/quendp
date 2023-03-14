@@ -82,6 +82,7 @@
   <img src="https://img.shields.io/badge/-Node JS-24283b?style=flat-square&logo=nodedotjs">
   <img src="https://img.shields.io/badge/-MySql-24283b?style=flat-square&logo=mysql"> 
   <img src="https://img.shields.io/badge/-PHP-24283b?style=flat-square&logo=php">
+  <img src="https://img.shields.io/badge/-Laravel-24283b?style=flat-square&logo=laravel">
   <img src="https://img.shields.io/badge/-Express JS-24283b?style=flat-square&logo=express">   
   <img src="https://img.shields.io/badge/-Python-24283b?style=flat-square&logo=python">
   <img src="https://img.shields.io/badge/-Git-24283b?style=flat-square&logo=git">   
